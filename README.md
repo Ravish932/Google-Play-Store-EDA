@@ -9,21 +9,26 @@ This project focuses on **exploratory data analysis (EDA) ** to uncover key insi
 -  Determining the **app with the largest size**  
 
 ## **Dataset Overview**
-- 📌 The dataset consists of **10,841 rows** and **13 columns**  
-- 📌 Contains information on **app categories, ratings, reviews, size, price, installs, and more**  
-- 📌 Data is sourced from the **Google Play Store**  
+-  The dataset consists of **10,841 rows** and **13 columns**  
+-  Contains information on **app categories, ratings, reviews, size, price, installs, and more**  
+-  Data is sourced from the **Google Play Store**
 
-## **Steps We Are Going to Follow**
-To ensure a structured and effective analysis, we will follow these three key steps:
+## **Tools Used**
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
 
-### 📌 **1. Data Cleaning**
-   - Handling **missing values**  
-   - Identifying and **removing duplicates**  
-   - Correcting **data types**  
-   - Standardizing **values and formats**  
+## **EDA Objectives**
+1. Understand the distribution of app categories
+2. Check Pricing trends across categories
+3. How many apps are there on Google Play Store which get 5 ratings
+4. Analyze app installs in each categories
+5. Which category has largest number of installations
 
-### 📌 **2. Exploratory Data Analysis (EDA)**
-   - Understanding **data distributions**  
-   - Finding insights using **visualizations**  
-   - Identifying **correlations and patterns**  
-   - Determining **outliers and anomalies**  
+##**Key Insights**##
+- Most Popular Category: Games and Tools dominate the world.
+- Free vs Paid Apps: Majority of Apps are free; Paid apps are fewer and not necessarily higer-rated.
+- There 271 apps in play store which get 5 rating.
+- Most Installed Category: Apps in Communication and Socia have the highest install count.
+- Games and Communication have the largest number of installation.
