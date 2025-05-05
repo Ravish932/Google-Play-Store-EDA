@@ -12,3 +12,18 @@ This project focuses on **exploratory data analysis (EDA) ** to uncover key insi
 - 📌 The dataset consists of **10,841 rows** and **13 columns**  
 - 📌 Contains information on **app categories, ratings, reviews, size, price, installs, and more**  
 - 📌 Data is sourced from the **Google Play Store**  
+
+## **Steps We Are Going to Follow**
+To ensure a structured and effective analysis, we will follow these three key steps:
+
+### 📌 **1. Data Cleaning**
+   - Handling **missing values**  
+   - Identifying and **removing duplicates**  
+   - Correcting **data types**  
+   - Standardizing **values and formats**  
+
+### 📌 **2. Exploratory Data Analysis (EDA)**
+   - Understanding **data distributions**  
+   - Finding insights using **visualizations**  
+   - Identifying **correlations and patterns**  
+   - Determining **outliers and anomalies**  
