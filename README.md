@@ -26,7 +26,7 @@ This project focuses on **exploratory data analysis (EDA) ** to uncover key insi
 4. Analyze app installs in each categories
 5. Which category has largest number of installations
 
-##**Key Insights**##
+##**Key Insights**
 - Most Popular Category: Games and Tools dominate the world.
 - Free vs Paid Apps: Majority of Apps are free; Paid apps are fewer and not necessarily higer-rated.
 - There 271 apps in play store which get 5 rating.
